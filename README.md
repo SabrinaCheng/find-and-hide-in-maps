@@ -1,6 +1,5 @@
-![find direction](/find-direction.jpg)
-
 ## Part 1: Finding your way
+![find direction](/find-direction.jpg)
 
 Given a map, the programming finds the shortest path between where you are and destination. In the map, # represents your current location, @ represents destination (Luddy Hall), . represents sidewalks, and & represents other buildings, which you are not allowed to enter.
 
